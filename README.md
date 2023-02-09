@@ -42,7 +42,7 @@ THEN I exit the application, and the HTML is generated
 
 The following image shows a mock-up of the generated HTML’s appearance and functionality:
 
-[Untitled_ Feb 9, 2023 2_00 PM (1).webm](https://user-images.githubusercontent.com/117357827/217924727-cf0aeb4d-165d-4c8c-86c1-72b7cc33961a.webm)
+[Untitled_ Feb 9, 2023 2_00 PM (1).webm](https://user-images.githubusercontent.com/117357827/217925004-29c087e6-6039-4941-b649-32667e2af3ea.webm)
 
 
 
