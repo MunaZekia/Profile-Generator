@@ -136,6 +136,7 @@ function generateEmployeeCardHtml(emp) {
       custom = `<p> School: ${emp.school}</p>`
    }
    return `
+    <link rel="stylesheet" href="styles.css">  
       <section class = "card">
          <header>
             <h1> ${emp.name} </h1>
